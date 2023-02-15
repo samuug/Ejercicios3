@@ -1,7 +1,7 @@
 # Ejercicios3
 
 ## Notas:
-Mi repositorio es: 
+Mi repositorio es: https://github.com/samuug/Ejercicios3.git
 
 ## Enunciados:
 
